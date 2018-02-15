@@ -1,6 +1,6 @@
-var name = "Susan";
+var name = "Susan"
 var height = "70"
-console.log(height)
+console.log(name)
 
 // Don't worry about this
 module.exports = { name, height
